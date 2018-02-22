@@ -1,4 +1,8 @@
 # DecryptCocos2dAsset
+This project can help decrypt cocos2d's asset  
+like *.pvr.ccz files.  
+*.pvr.ccz file has "CCZp" `43 43 5A 70` header.
+![](https://i.imgur.com/y8upqM9.png)
 
 ### How to get key
 key size is 16byte(4byte * 4key)
